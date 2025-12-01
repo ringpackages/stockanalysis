@@ -1,6 +1,6 @@
 # StockAnalysis
 
-Stock Analsis application written in the Ring programming language
+Stock Analysis application written in the Ring programming language
 
 Author: Azzeddine Remmal
 
